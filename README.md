@@ -23,7 +23,6 @@
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
  </p>
  
-![](https://github-readme-stats.vercel.app/api?username=FernandoGavilan2000&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FernandoGavilan2000&theme=react&hide_border=false)
 
  <h3 align="left">📧 Connect with me:</h3>
